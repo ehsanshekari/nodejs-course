@@ -1,0 +1,11 @@
+# External Dependencies
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+.codelite/
+
+# package-lock
+package-lock.json
+

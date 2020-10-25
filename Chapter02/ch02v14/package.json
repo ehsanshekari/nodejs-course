@@ -1,0 +1,16 @@
+{
+  "name": "npm-intro",
+  "version": "1.0.0",
+  "description": "This is just an npm introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "fake": "nodemon index.js"
+  },
+  "author": "Ehsan Shekari",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
