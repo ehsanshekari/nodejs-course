@@ -1,0 +1,3 @@
+country: Iran  deaths: 7451 
+country: Italy  deaths: 32877 
+country: Spain  deaths: 26834 

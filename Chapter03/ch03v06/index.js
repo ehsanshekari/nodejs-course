@@ -3,7 +3,7 @@ const request = require('request');
 const options = {
   method: 'GET',
   url: 'https://covid-19-data.p.rapidapi.com/report/country/name',
-  qs: { date: '2020-04-01', name: 'Iran' },
+  qs: { date: '2020-05-25', name: 'Iran' },
   headers: {
     'x-rapidapi-key': '2fcc5bfceemshf8ef0d53b78183ap1e430djsn347fc56b446d',
     'x-rapidapi-host': 'covid-19-data.p.rapidapi.com',
