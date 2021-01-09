@@ -1,0 +1,3 @@
+-73.989,40.733 : M&T Plumbing, 120 E 13th St, New York, New York 10003, United States
+-73.989,40.732 : NYU Founders Residence Hall, 120 E 12th St, New York, New York 10003, United States
+-73.988,40.734 : NYU Palladium Student Lounge, 140 E 14th St Fl 3, New York, New York 10003, United States

@@ -17,8 +17,6 @@ fs.readFile('./countries.txt', 'utf-8', (err, data) => {
   }
 })
 
-
-
 function sendRequest(country) {
   const options = {
     method: 'GET',
